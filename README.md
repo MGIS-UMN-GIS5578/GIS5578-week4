@@ -2,7 +2,7 @@
 
 ### Purpose
 
-1. Reading and Writingn data 
+1. Reading and Writing data 
 2. Modules
 3. Lists or Numpy
 
@@ -10,7 +10,7 @@
 1. lab 2
 
 ## ArcGIS Pro (Spyder) Integration
-We still are working on this, we should have an official set of instructions by the end of the week.
+The lab is currently setup. We are working on a Virtual Machine.
 
 This will allow you to execute your file in Python
 exec(open(r"").read())
